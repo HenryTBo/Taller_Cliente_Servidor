@@ -18,9 +18,10 @@ public class Conexion {
     Connection conexion = null;
     PreparedStatement consulta = null;
     ResultSet resultado = null;
-    String url = "jdbc:mysql://localhost:3306/proyectofinal";
-    String username = "root";
-    String password = "admin1234.";
+    //Your mySQL info
+    String url = "";
+    String username = "";
+    String password = "";
     
     public void setConexion(){
         try{
