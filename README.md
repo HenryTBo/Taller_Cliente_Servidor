@@ -1,5 +1,5 @@
 # Taller_Cliente_Servidor
-The code for this project is in Spanish as it is oriented toward a class in my university career.
+The code for this project is in Spanish as it was oriented towards a course in the university program I am taking.
 
 ## English:
 Final Project for the Client-Server Course
